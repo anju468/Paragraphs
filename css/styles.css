@@ -1,0 +1,22 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.important {
+  color: blue;
+}
+.col {
+  width: 200px;
+  float: left;
+  margin: 4px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: #dbdcff;
+}
